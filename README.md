@@ -71,6 +71,4 @@ Créé par [WhizuGuru](https://github.com/WhizuGuru)
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-```
 
-Avec cette version améliorée, votre projet aura une apparence encore plus professionnelle sur GitHub, et les utilisateurs auront des instructions claires pour configurer et utiliser votre application. Si vous avez besoin d'autres modifications ou d'ajustements, je suis là pour vous aider !
