@@ -51,7 +51,7 @@ Ensuite, ouvrez votre navigateur et accédez à `http://localhost:5000` pour uti
 ## Structure du Projet
 
 ```
-task-list-app/
+TaskManager/
 │
 ├── app.py               # Code backend principal
 ├── templates/
