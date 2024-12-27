@@ -19,8 +19,8 @@ TaskManager est une application élégante et moderne de gestion de tâches cons
 
 1. Clonez le dépôt GitHub :
     ```bash
-    git clone https://github.com/WhizuGuru/task-list-app.git
-    cd task-list-app
+    git clone https://github.com/WhizuGuru/TaskManager.git
+    cd TaskManager
     ```
 
 2. Créez un environnement virtuel et activez-le :
